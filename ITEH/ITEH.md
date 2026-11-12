@@ -6,4 +6,4 @@
 ## Vezbe
 ## OBAVEZE
 ### Projekat
-[[FAKS/ITEH/ITEH PROJEKAT]] 
+[[ITEH PROJEKAT]] 

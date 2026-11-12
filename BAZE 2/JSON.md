@@ -85,3 +85,4 @@ Ako zelimo da dodamo JSON dokument o ovu tabelu radimo sledece:
 INSERT INTO otpremnicaJSON (podaci)
 VALUES ('neki kreirani JSON dokument');
 ```
+
